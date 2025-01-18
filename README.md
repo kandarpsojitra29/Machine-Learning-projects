@@ -5,7 +5,7 @@ Homework Topics:
 * Linear and Logistic Regression model
 * Tree-based model
 * Support Vector Machine model
-* Convolutional Neural Network model
+* Convolutional Neural Network model (MNIST Dataset)
   
 Project:
 * Predicting meal caloric content by integrating Continuous Glucose Monitoring (CGM) data, Food images, Anthropometric data, and Gut microbiome information
