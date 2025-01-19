@@ -8,4 +8,4 @@ Homework Topics:
 * `CNN`: Convolutional Neural Network model (MNIST Dataset)
   
 Project:
-* `calorie_prediction`: Predicting meal caloric content by integrating Continuous Glucose Monitoring (CGM) data, Food images, Anthropometric data, and Gut microbiome information. A transformer-based model was utilized for this project
+* `calorie_prediction`: Predicting meal caloric content by integrating Continuous Glucose Monitoring (CGM) data, Food images, Anthropometric data, and Gut microbiome information. A transformer-based model was utilized for this project.
